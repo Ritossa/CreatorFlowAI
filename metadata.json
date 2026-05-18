@@ -1,0 +1,11 @@
+{
+  "name": "IstraDine AI",
+  "description": "Pametni restoranski asistent za istarske restorane - AI kopilot za rezervacije, narudžbe i personalizirane preporuke u Istri.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
